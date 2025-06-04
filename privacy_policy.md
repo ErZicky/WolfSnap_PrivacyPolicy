@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-ZetaDevs built the WolfSnap: Receipt Scanner game as a Free app. This SERVICE is provided by ZetaDevs at no cost and is intended for use as is.
+ZetaDevs built the WolfSnap: Receipt Scanner app as a Free app. This SERVICE is provided by ZetaDevs at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
